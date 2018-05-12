@@ -1,0 +1,40 @@
+_repo: JouluiltaKolmilauluinen-runoelma_16034
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Juva, Valter
+    aliases:
+    - Juvelius, Valter Henrik
+    - Kenttä, Heikki
+    birthdate: 1865
+    deathdate: 1922
+    gutenberg_agent_id: '6321'
+    url: http://www.gutenberg.org/2009/agents/6321
+    wikipedia: http://fi.wikipedia.org/wiki/Valter_Juva
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Runeberg, Johan Ludvig
+    alias: Runeberg, J. L. (Johan Ludvig)
+    birthdate: 1804
+    deathdate: 1877
+    gutenberg_agent_id: '2842'
+    url: http://www.gutenberg.org/2009/agents/2842
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Ludvig_Runeberg
+description: ''
+gutenberg_bookshelf: Christmas
+gutenberg_issued: '2005-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16034'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Christmas stories'
+title: 'Jouluilta: Kolmilauluinen runoelma'
+url: http://www.gutenberg.org/ebooks/16034
